@@ -59,10 +59,16 @@ const linksList = [
 
   {
     title: 'Shopping List',
-    caption: 'Vue 실습 1',
+    caption: 'Vue component 실습',
     icon: 'code',
     link: '/shop'
-  }
+  },
+  {
+    title: 'todo',
+    caption: 'Vue + Store 실습',
+    icon: 'home',
+    link: '/todo'
+  },
 
   /* {
     title: 'Github',
